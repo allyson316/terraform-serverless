@@ -1,0 +1,6 @@
+terraform/environments/dev/.terraform
+terraform/environments/prod/.terraform
+
+*secrets.auto.tfvars
+*terraform.tfstate
+*terraform.tfstate.backup
